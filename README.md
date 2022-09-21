@@ -5,7 +5,7 @@
 <p> Geekbuying.com is an e-commerce website. From this website, you can buy electronics products
 </p>
 <p> 
-Developed along with a team of 5 members in one week
+Developed along with a team of 6 members in 5 days.
 </p>
 <p> 
 Here we mainly worked on providing the dynamic user interface with some functionalities.
