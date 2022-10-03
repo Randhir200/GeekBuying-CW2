@@ -1,3 +1,28 @@
+## Construct week project
+
+## Unit 3  Project
+ 
+- It was completed within 5 days.
+
+## 🔧 Technologies & Tools
+
+[![Tools](https://skillicons.dev/icons?i=html,css,javascript,github,netlify&theme=dark)](https://skillicons.dev)
+
+## Deployment
+
+Checkout our application here ✌ - [Geekbuying Clone](https://frolicking-moxie-feacd6.netlify.app/)
+
+## Contributors
+
+- [@Randhir200](https://github.com/Randhir200)
+- [@BishalPatgiri](https://github.com/BishalPatgiri)
+- [@ShirsoBhattacharyya](https://github.com/ShirsoBhattacharyya)
+- [@ankit24695](https://github.com/ankit24695)
+- [@Rajnish1234567](https://github.com/Rajnish1234567)
+- [@rs230498](https://github.com/rs230498)
+
+
+
 <a href="#"><img  width="100%" height="auto" src="https://gizchina.it/wp-content/uploads/2017/11/Geekbuying-logo.jpg" height="175px"/></a>
 
 <h1 align="center">Geekbuying.com</h1>
