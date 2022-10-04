@@ -38,3 +38,5 @@ Here we mainly worked on providing the dynamic user interface with some function
 <p>My task in this project was to store the data of products in the backend and use that data to display all the available products on the product page.
 </p>
 <p>Tech stack: HTML, CSS, Javascript</p>
+
+<img src="https://github.com/Randhir200/GeekBuying-CW2/blob/master/images/geekbuying.png" alt="Home_Page" />
