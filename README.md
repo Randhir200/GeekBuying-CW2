@@ -39,4 +39,15 @@ Here we mainly worked on providing the dynamic user interface with some function
 </p>
 <p>Tech stack: HTML, CSS, Javascript</p>
 
+### Home page
+
 <img src="https://github.com/Randhir200/GeekBuying-CW2/blob/master/images/geekbuying.png" alt="Home_Page" />
+
+### Signup Page
+
+<img src="https://github.com/Randhir200/GeekBuying-CW2/blob/master/images/signup.png" alt="Signup_Page" />
+
+
+### Product Page
+
+<img src="https://github.com/Randhir200/GeekBuying-CW2/blob/master/images/products.png" alt="Product_Page" />
